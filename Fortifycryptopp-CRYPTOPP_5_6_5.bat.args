@@ -1,0 +1,8 @@
+ 
+"-exclude" "C:\Users\lucian.corlan\Desktop\cryptopp-CRYPTOPP_5_6_5\**\*.exe" 
+"-exclude" "C:\Users\lucian.corlan\Desktop\cryptopp-CRYPTOPP_5_6_5\**\*.dll" 
+"-exclude" "C:\Users\lucian.corlan\Desktop\cryptopp-CRYPTOPP_5_6_5\**\*.mod" 
+"-exclude" "C:\Users\lucian.corlan\Desktop\cryptopp-CRYPTOPP_5_6_5\**\*.mdl" 
+"-exclude" "C:\Users\lucian.corlan\Desktop\cryptopp-CRYPTOPP_5_6_5\**\*.aspx" 
+"-exclude" "C:\Users\lucian.corlan\Desktop\cryptopp-CRYPTOPP_5_6_5\**\*.master" 
+"C:\Users\lucian.corlan\Desktop\cryptopp-CRYPTOPP_5_6_5" 
